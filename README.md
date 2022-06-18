@@ -5,7 +5,8 @@
 **PLATFORM**: MONA  (UoM; ICE9-Robotics)
 
 
-**Team 3**:
+**Team 3**:/
+Our joint group comprising members from UWRS and UOM Robotics attained 2nd Place and a technical commendation.
 * ylpoonlg
 * tigertammi
 * nisa
