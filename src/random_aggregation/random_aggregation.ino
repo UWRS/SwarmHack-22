@@ -1,9 +1,5 @@
 /*
-  Simple_collision_avoider.ino - Usage of the libraries Example
-  Using the Mona_ESP library in C style.
-  Created by Bart Garcia, December 2020.
-  bart.garcia.nathan@gmail.com
-  Released into the public domain.
+  Simple modification to Bart Garcia's model example found in official SwarmHack repo: Simple_collision_avoider.ino
 */
 //Include the Mona_ESP library
 #include <Wire.h>
